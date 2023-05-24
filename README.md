@@ -128,4 +128,3 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), W
 
 Thus XOR is successfully implemeted using RBF
 
-Thus XOR is successfully implemeted using RBF
